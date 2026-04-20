@@ -1,1 +1,1 @@
-easyeda2kicad --full --lcsc_id=XXXXXXX --output /home/robin/Projects/PTT/PTT_Kicad/PTT_PCB_v4/libraries/Project_components
+easyeda2kicad --full --lcsc_id=XXXXXXX --output /home/robin/Projects/OmniPTT/hardware/libraries/Project_components.kicad_sym
