@@ -708,7 +708,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4cd001ae-eedd-4cfb-bf7d-aa1c43e46e96")
-		(property "Reference" "P26"
+		(property "Reference" "P19"
 			(at 189.865 55.88 0)
 			(effects
 				(font
@@ -758,7 +758,7 @@
 		(instances
 			(project "ptt_board_cell"
 				(path "/7b4c058f-fd9c-4c59-ad3d-5046394d5b15"
-					(reference "P26")
+					(reference "P19")
 					(unit 1)
 				)
 			)

@@ -499,7 +499,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "/home/robin/Projects/PTT/PTT_Kicad/PTT_PCB_v4/libraries/Project_components.3dshapes/SKB369.step"
+	(model "${KIPRJMOD}/../../libraries/Project_components.3dshapes/SKB369.step"
 		(offset
 			(xyz 0 0 0)
 		)
