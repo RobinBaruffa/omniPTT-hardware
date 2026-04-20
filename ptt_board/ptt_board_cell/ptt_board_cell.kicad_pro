@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ptt_board_core.kicad_pro",
+    "filename": "ptt_board_cell.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -487,10 +487,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "exports/",
+      "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../exports/PTT_PCB_v4_radio_module.step",
+      "step": "",
       "svg": "",
       "vrml": ""
     },
@@ -611,7 +611,7 @@
   },
   "sheets": [
     [
-      "9af4cf98-9d36-402b-9fdf-f0a46f53ba5a",
+      "7b4c058f-fd9c-4c59-ad3d-5046394d5b15",
       "Root"
     ]
   ],
