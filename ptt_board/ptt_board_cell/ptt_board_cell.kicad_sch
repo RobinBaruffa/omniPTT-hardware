@@ -127,11 +127,11 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "PTT_project:MY-2032-22"
+		(symbol "Project_components:MY-2032-02"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "BAT"
+			(property "Reference" "U"
 				(at 0 5.08 0)
 				(effects
 					(font
@@ -139,7 +139,7 @@
 					)
 				)
 			)
-			(property "Value" "MY-2032-22"
+			(property "Value" "MY-2032-02"
 				(at 0 -5.08 0)
 				(effects
 					(font
@@ -147,7 +147,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Project_components:BAT-TH_MY-2032-22"
+			(property "Footprint" "Project_components:BATT-TH_MY-2032-02"
 				(at 0 -7.62 0)
 				(effects
 					(font
@@ -156,7 +156,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.lcsc.com/datasheet/C2902339.pdf"
+			(property "Datasheet" "https://www.lcsc.com/datasheet/C964822.pdf"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -183,7 +183,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "MY-2032-22"
+			(property "MPN" "MY-2032-02"
 				(at 0 -15.24 0)
 				(effects
 					(font
@@ -192,7 +192,7 @@
 					(hide yes)
 				)
 			)
-			(property "LCSC Part" "C2902339"
+			(property "LCSC Part" "C964822"
 				(at 0 -17.78 0)
 				(effects
 					(font
@@ -201,7 +201,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "Battery Connectors"
+			(property "ki_keywords" "Battery Accessories/Contacts/Springs"
 				(at 0 0 0)
 				(effects
 					(font
@@ -210,10 +210,10 @@
 					(hide yes)
 				)
 			)
-			(symbol "MY-2032-22_0_1"
+			(symbol "MY-2032-02_0_1"
 				(polyline
 					(pts
-						(xy -1.27 2.29) (xy -1.27 -1.78)
+						(xy -1.27 2.54) (xy -1.27 -2.54)
 					)
 					(stroke
 						(width 0)
@@ -225,7 +225,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.51 1.27) (xy -0.51 -1.02)
+						(xy -0.51 1.27) (xy -0.51 -1.27)
 					)
 					(stroke
 						(width 0)
@@ -237,7 +237,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0.25 2.29) (xy 0.25 -1.78)
+						(xy 0.25 2.54) (xy 0.25 -2.29)
 					)
 					(stroke
 						(width 0)
@@ -249,7 +249,7 @@
 				)
 				(polyline
 					(pts
-						(xy 1.02 1.27) (xy 1.02 -1.02)
+						(xy 1.27 1.27) (xy 1.27 -1.27)
 					)
 					(stroke
 						(width 0)
@@ -259,9 +259,9 @@
 						(type none)
 					)
 				)
-				(pin input line
-					(at -5.08 0 0)
-					(length 3.81)
+				(pin unspecified line
+					(at -6.35 0 0)
+					(length 5.08)
 					(name "1"
 						(effects
 							(font
@@ -277,9 +277,9 @@
 						)
 					)
 				)
-				(pin input line
-					(at 5.08 0 180)
-					(length 3.81)
+				(pin unspecified line
+					(at 6.35 0 180)
+					(length 5.08)
 					(name "2"
 						(effects
 							(font
@@ -527,7 +527,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 63.5) (xy 205.74 63.5)
+			(xy 200.66 66.04) (xy 204.47 66.04)
 		)
 		(stroke
 			(width 0)
@@ -547,7 +547,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 63.5) (xy 189.23 63.5)
+			(xy 182.88 66.04) (xy 187.96 66.04)
 		)
 		(stroke
 			(width 0)
@@ -567,7 +567,7 @@
 	)
 	(symbol
 		(lib_id "power:+BATT")
-		(at 181.61 63.5 90)
+		(at 182.88 66.04 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -576,7 +576,7 @@
 		(fields_autoplaced yes)
 		(uuid "0645e942-34a4-400b-a716-dda77b50810d")
 		(property "Reference" "#PWR05"
-			(at 185.42 63.5 0)
+			(at 186.69 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -585,7 +585,7 @@
 			)
 		)
 		(property "Value" "+BATT"
-			(at 177.8 63.4999 90)
+			(at 179.07 66.0399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -594,7 +594,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 181.61 63.5 0)
+			(at 182.88 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -603,7 +603,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 181.61 63.5 0)
+			(at 182.88 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -612,7 +612,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+BATT\""
-			(at 181.61 63.5 0)
+			(at 182.88 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -634,7 +634,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 205.74 63.5 90)
+		(at 204.47 66.04 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -643,7 +643,7 @@
 		(fields_autoplaced yes)
 		(uuid "1c53947f-7cee-4e01-a812-d768f0085588")
 		(property "Reference" "#PWR010"
-			(at 212.09 63.5 0)
+			(at 210.82 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -652,7 +652,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 209.55 63.4999 90)
+			(at 208.28 66.0399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -661,7 +661,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 205.74 63.5 0)
+			(at 204.47 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -670,7 +670,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 63.5 0)
+			(at 204.47 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -679,7 +679,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 205.74 63.5 0)
+			(at 204.47 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -725,7 +725,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Pin:Pin_D1.0mm_L10.0mm"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
 			(at 189.23 50.8 0)
 			(effects
 				(font
@@ -832,6 +832,101 @@
 		)
 	)
 	(symbol
+		(lib_id "Project_components:MY-2032-02")
+		(at 194.31 66.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7b5f0fff-4dcb-4f21-9a5f-6e1e6b2f5407")
+		(property "Reference" "U1"
+			(at 194.31 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MY-2032-02"
+			(at 194.31 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Project_components:BATT-TH_MY-2032-02"
+			(at 194.31 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C964822.pdf"
+			(at 194.31 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 194.31 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "MYOUNG(美阳)"
+			(at 194.31 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MY-2032-02"
+			(at 194.31 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C964822"
+			(at 194.31 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9d0ea17f-0c13-4cde-ae42-a7651da8552c")
+		)
+		(pin "1"
+			(uuid "e422d73c-3947-458a-947a-110d39d80653")
+		)
+		(instances
+			(project "ptt_board_cell"
+				(path "/7b4c058f-fd9c-4c59-ad3d-5046394d5b15"
+					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Conn_01x01_Pin")
 		(at 189.23 46.99 0)
 		(unit 1)
@@ -859,7 +954,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_Pin:Pin_D1.0mm_L10.0mm"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
 			(at 189.23 46.99 0)
 			(effects
 				(font
@@ -924,7 +1019,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Pin:Pin_D1.0mm_L10.0mm"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
 			(at 189.23 54.61 0)
 			(effects
 				(font
@@ -1025,100 +1120,6 @@
 			(project "ptt_board_cell"
 				(path "/7b4c058f-fd9c-4c59-ad3d-5046394d5b15"
 					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PTT_project:MY-2032-22")
-		(at 194.31 63.5 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e08e5090-af10-4c2d-8b87-381ce3b044b5")
-		(property "Reference" "BAT1"
-			(at 194.31 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MY-2032-22"
-			(at 194.31 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Project_components:BAT-TH_MY-2032-22"
-			(at 194.31 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C2902339.pdf"
-			(at 194.31 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 194.31 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "MYOUNG(美阳)"
-			(at 194.31 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "MY-2032-22"
-			(at 194.31 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C2902339"
-			(at 194.31 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "04dceeaf-a6ef-4287-ad37-fa4989c7b09e")
-		)
-		(pin "2"
-			(uuid "99591d94-28b1-453d-a755-bac5e2017aa2")
-		)
-		(instances
-			(project "ptt_board_cell"
-				(path "/7b4c058f-fd9c-4c59-ad3d-5046394d5b15"
-					(reference "BAT1")
 					(unit 1)
 				)
 			)
