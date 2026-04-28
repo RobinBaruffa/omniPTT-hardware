@@ -358,7 +358,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Project_components:CC0603KRX7R9BB104"
+		(symbol "PTT_Project_library:CC0603KRX7R9BB104"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -378,7 +378,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Project_components:C0603"
+			(property "Footprint" "PTT_Project_library:C0603"
 				(at 0 -7.62 0)
 				(effects
 					(font
@@ -502,7 +502,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Project_components:RKB2SJG250SMTRLFS"
+		(symbol "PTT_Project_library:RKB2SJG250SMTRLFS"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -522,7 +522,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Project_components:SW-SMD_4P-L4.2-W3.2-P2.15-LS4.6"
+			(property "Footprint" "PTT_Project_library:SW-SMD_4P-L4.2-W3.2-P2.15-LS4.6"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -694,7 +694,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Project_components:SKB369"
+		(symbol "PTT_Project_library:SKB369"
 			(pin_names
 				(offset 1.016)
 			)
@@ -2130,7 +2130,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Project_components:CC0603KRX7R9BB104")
+		(lib_id "PTT_Project_library:CC0603KRX7R9BB104")
 		(at 172.72 69.85 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2207,7 +2207,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Project_components:RKB2SJG250SMTRLFS")
+		(lib_id "PTT_Project_library:RKB2SJG250SMTRLFS")
 		(at 97.79 30.48 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2231,7 +2231,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Project_components:Push button C2927788"
+		(property "Footprint" "PTT_Project_library:Push button C2927788"
 			(at 97.79 40.64 0)
 			(effects
 				(font
@@ -2751,7 +2751,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Project_components:SKB369")
+		(lib_id "PTT_Project_library:SKB369")
 		(at 106.68 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2775,7 +2775,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Project_components:SKYLAB_SKB369"
+		(property "Footprint" "PTT_Project_library:SKYLAB_SKB369"
 			(at 106.68 81.28 0)
 			(effects
 				(font
@@ -3260,7 +3260,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Project_components:CC0603KRX7R9BB104")
+		(lib_id "PTT_Project_library:CC0603KRX7R9BB104")
 		(at 172.72 82.55 180)
 		(unit 1)
 		(exclude_from_sim no)

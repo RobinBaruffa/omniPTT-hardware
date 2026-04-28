@@ -198,7 +198,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Project_components:Push button C2927788"
+	(footprint "PTT_Project_library:Push button C2927788"
 		(layer "F.Cu")
 		(uuid "2b5659d7-f8b6-435c-9341-c9ccda2eb150")
 		(at 100 100 180)
@@ -394,7 +394,7 @@
 			(uuid "8050d193-38d9-474e-9900-88cf4fc43366")
 		)
 		(embedded_fonts no)
-		(model "/home/rbaruffa/Perso/OmniPTT/hardware/libraries/Project_components.3dshapes/SW-SMD_4P-L4.2-W3.2-P2.15-LS4.6.wrl"
+		(model "/home/rbaruffa/Perso/OmniPTT/hardware/libraries/PTT_Project_library.3dshapes/SW-SMD_4P-L4.2-W3.2-P2.15-LS4.6.wrl"
 			(offset
 				(xyz 0 -0 -0)
 			)
@@ -1471,7 +1471,7 @@
 			)
 		)
 	)
-	(footprint "Project_components:SKYLAB_SKB369"
+	(footprint "PTT_Project_library:SKYLAB_SKB369"
 		(layer "B.Cu")
 		(uuid "3c1f4b15-8534-4fab-8a6b-0a935e1b123d")
 		(at 99.65 98.13 180)
@@ -2203,7 +2203,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../../libraries/Project_components.3dshapes/SKB369.step"
+		(model "${KIPRJMOD}/../../libraries/PTT_Project_library.3dshapes/SKB369.step"
 			(offset
 				(xyz 0 0 0)
 			)

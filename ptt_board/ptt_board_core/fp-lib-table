@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "Project_components")(type "KiCad")(uri "${KIPRJMOD}/../../libraries/Project_components.pretty")(options "")(descr ""))
+  (lib (name "PTT_Project_library")(type "KiCad")(uri "${KIPRJMOD}/../../libraries/PTT_Project_library.pretty")(options "")(descr ""))
 )

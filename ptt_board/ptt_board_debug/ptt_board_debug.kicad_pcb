@@ -561,7 +561,7 @@
 			)
 		)
 	)
-	(footprint "Project_components:BAT-SMD_MY-1632-03"
+	(footprint "PTT_Project_library:BAT-SMD_MY-1632-03"
 		(layer "F.Cu")
 		(uuid "4cc6c53e-d7d5-4caf-9906-94f954ccb87c")
 		(at 145 73 90)
@@ -896,7 +896,7 @@
 			(uuid "f35f8fc9-6fa3-4a55-865b-e78c01d78404")
 		)
 		(embedded_fonts no)
-		(model "/home/robin/Projects/PTT/PTT_Kicad/PTT_PCB_v4/libraries/Project_components.3dshapes/BAT-SMD_MY-1632-03.wrl"
+		(model "/home/robin/Projects/PTT/PTT_Kicad/PTT_PCB_v4/libraries/PTT_Project_library.3dshapes/BAT-SMD_MY-1632-03.wrl"
 			(offset
 				(xyz 0 1.17 0)
 			)
@@ -1001,7 +1001,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Project_components:C0603"
+	(footprint "PTT_Project_library:C0603"
 		(layer "F.Cu")
 		(uuid "6f0cb138-d7bc-4d20-9626-89994ca2bcad")
 		(at 99.2 70.49 180)
@@ -1202,7 +1202,7 @@
 			(uuid "baa5c817-88ad-43d9-bcc1-5ff8452b4a81")
 		)
 		(embedded_fonts no)
-		(model "/home/robin/Projects/PTT/PTT_Kicad/PTT_PCB_v4/libraries/Project_components.3dshapes/C0603_L1.6-W0.8-H0.8.wrl"
+		(model "/home/robin/Projects/PTT/PTT_Kicad/PTT_PCB_v4/libraries/PTT_Project_library.3dshapes/C0603_L1.6-W0.8-H0.8.wrl"
 			(offset
 				(xyz -0.5 -0.13 -0)
 			)
@@ -1401,7 +1401,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Project_components:Push button C2927788"
+	(footprint "PTT_Project_library:Push button C2927788"
 		(layer "F.Cu")
 		(uuid "adb118e8-b0d7-476f-85de-030cee678f52")
 		(at 99.4 78.2 90)
@@ -1570,7 +1570,7 @@
 			(uuid "964de27a-ce93-40a7-8cae-7d622d3bd67b")
 		)
 		(embedded_fonts no)
-		(model "/home/robin/Projects/PTT/PTT_Kicad/PTT_PCB_v4/libraries/Project_components.3dshapes/SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL_H1.5.wrl"
+		(model "/home/robin/Projects/PTT/PTT_Kicad/PTT_PCB_v4/libraries/PTT_Project_library.3dshapes/SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL_H1.5.wrl"
 			(offset
 				(xyz 0 -0 -0)
 			)
@@ -1837,7 +1837,7 @@
 			)
 		)
 	)
-	(footprint "Project_components:SKYLAB_SKB369"
+	(footprint "PTT_Project_library:SKYLAB_SKB369"
 		(layer "F.Cu")
 		(uuid "d8b309b0-1f22-4fbe-9d6d-30bd1148e8ba")
 		(at 118.45 73.48)
@@ -2554,7 +2554,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Project_components:C0603"
+	(footprint "PTT_Project_library:C0603"
 		(layer "F.Cu")
 		(uuid "e8f3f4f0-44c8-4682-a5cc-9e5b23850e1b")
 		(at 99.2 73.49)
@@ -2755,7 +2755,7 @@
 			(uuid "106a3538-4142-4136-9eaf-89be12d4e24c")
 		)
 		(embedded_fonts no)
-		(model "/home/robin/Projects/PTT/PTT_Kicad/PTT_PCB_v4/libraries/Project_components.3dshapes/C0603_L1.6-W0.8-H0.8.wrl"
+		(model "/home/robin/Projects/PTT/PTT_Kicad/PTT_PCB_v4/libraries/PTT_Project_library.3dshapes/C0603_L1.6-W0.8-H0.8.wrl"
 			(offset
 				(xyz -0.5 -0.13 -0)
 			)
@@ -2767,7 +2767,7 @@
 			)
 		)
 	)
-	(footprint "Project_components:CONN-TH_10P-P1.27_HX-JN1.27-2X5P-ZZ-H4.9"
+	(footprint "PTT_Project_library:CONN-TH_10P-P1.27_HX-JN1.27-2X5P-ZZ-H4.9"
 		(layer "F.Cu")
 		(uuid "f0b92a9e-d5d0-4904-9b69-536b3810bbac")
 		(at 117.29 94.39)
@@ -3039,7 +3039,7 @@
 			(uuid "00509144-2040-4a84-b380-c00531fdfdbd")
 		)
 		(embedded_fonts no)
-		(model "/home/robin/Projects/PTT/PTT_Kicad/PTT_PCB_v4/libraries/Project_components.3dshapes/CONN-TH_10P-P1.27_DC3-10P.wrl"
+		(model "/home/robin/Projects/PTT/PTT_Kicad/PTT_PCB_v4/libraries/PTT_Project_library.3dshapes/CONN-TH_10P-P1.27_DC3-10P.wrl"
 			(offset
 				(xyz 0 -0 0)
 			)

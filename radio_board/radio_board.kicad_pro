@@ -448,10 +448,10 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "PTT_project"
+      "PTT_Project_library"
     ],
     "pinned_symbol_libs": [
-      "PTT_project"
+      "PTT_Project_library"
     ]
   },
   "meta": {

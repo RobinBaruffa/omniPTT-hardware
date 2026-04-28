@@ -712,7 +712,7 @@
 			)
 		)
 	)
-	(footprint "Project_components:BATT-TH_MY-2032-02"
+	(footprint "PTT_Project_library:BATT-TH_MY-2032-02"
 		(layer "B.Cu")
 		(uuid "560ddf42-05fb-4a06-93aa-b3d37eaa0f95")
 		(at 100 100 -38)
@@ -5078,7 +5078,7 @@
 			(uuid "b348802d-e3a6-41c1-902c-06d7849036bc")
 		)
 		(embedded_fonts no)
-		(model "/home/rbaruffa/Perso/OmniPTT/hardware/libraries/Project_components.3dshapes/BATT-TH_MY-2032-02.wrl"
+		(model "/home/rbaruffa/Perso/OmniPTT/hardware/libraries/PTT_Project_library.3dshapes/BATT-TH_MY-2032-02.wrl"
 			(offset
 				(xyz 0 0 0)
 			)

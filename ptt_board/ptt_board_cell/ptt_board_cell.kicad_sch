@@ -127,7 +127,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Project_components:MY-2032-02"
+		(symbol "PTT_Project_library:MY-2032-02"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -147,7 +147,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Project_components:BATT-TH_MY-2032-02"
+			(property "Footprint" "PTT_Project_library:BATT-TH_MY-2032-02"
 				(at 0 -7.62 0)
 				(effects
 					(font
@@ -832,7 +832,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Project_components:MY-2032-02")
+		(lib_id "PTT_Project_library:MY-2032-02")
 		(at 194.31 66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -857,7 +857,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Project_components:BATT-TH_MY-2032-02"
+		(property "Footprint" "PTT_Project_library:BATT-TH_MY-2032-02"
 			(at 194.31 73.66 0)
 			(effects
 				(font
