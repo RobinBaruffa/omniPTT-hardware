@@ -2155,7 +2155,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Project_components:C0603"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 172.72 77.47 0)
 			(effects
 				(font
@@ -3285,7 +3285,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Project_components:C0603"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 172.72 74.93 0)
 			(effects
 				(font
