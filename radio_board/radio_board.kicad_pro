@@ -455,7 +455,7 @@
     ]
   },
   "meta": {
-    "filename": "PTT_PCB_v4_radio_board.kicad_pro",
+    "filename": "radio_board.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -690,7 +690,7 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "",
+    "net_format_name": "KiCad",
     "page_layout_descr_file": "",
     "plot_directory": "",
     "space_save_all_events": true,
