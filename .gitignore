@@ -1,3 +1,9 @@
 *-backups/
 **/fp-info-cache
+
+
+# Ignore everything inside the exports directory
 exports/*
+
+# Un-ignore the Python file(s)
+!exports/*.py
