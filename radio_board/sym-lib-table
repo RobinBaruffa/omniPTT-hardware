@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "PTT_Project_library")(type "KiCad")(uri "${KIPRJMOD}/../libraries/PTT_Project_library.kicad_sym")(options "")(descr ""))
   (lib (name "poka_yoke")(type "KiCad")(uri "${KIPRJMOD}/../libraries/poka_yoke_uart_KiCAD/poka_yoke_uart.kicad_sym")(options "")(descr ""))
+  (lib (name "PTT_Project_logo")(type "KiCad")(uri "${KIPRJMOD}/../libraries/logos/omniPTT_logo.kicad_sym")(options "")(descr ""))
 )

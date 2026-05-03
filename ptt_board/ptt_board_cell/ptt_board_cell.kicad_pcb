@@ -1047,7 +1047,7 @@
 			(uuid "182f9cee-306c-4ba0-8432-a51f5595ba27")
 		)
 		(fp_line
-			(start -7.069999 7.070001)
+			(start -7.069998 7.070001)
 			(end -7.17 6.97)
 			(stroke
 				(width 0.05)
@@ -1078,7 +1078,7 @@
 		)
 		(fp_line
 			(start -6.969998 7.169999)
-			(end -7.069999 7.070001)
+			(end -7.069998 7.070001)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -1388,7 +1388,7 @@
 		)
 		(fp_line
 			(start -9.550002 2.950001)
-			(end -9.59 2.82)
+			(end -9.589999 2.82)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -1407,7 +1407,7 @@
 			(uuid "25497dc1-e870-44b7-bfe2-318e81922943")
 		)
 		(fp_line
-			(start -9.59 2.82)
+			(start -9.589999 2.82)
 			(end -9.63 2.679999)
 			(stroke
 				(width 0.05)
@@ -2297,7 +2297,7 @@
 			(uuid "90e72c02-db7a-4548-b824-7d726500c3c8")
 		)
 		(fp_line
-			(start 2.82 9.59)
+			(start 2.82 9.589999)
 			(end 2.679999 9.63)
 			(stroke
 				(width 0.05)
@@ -2318,7 +2318,7 @@
 		)
 		(fp_line
 			(start 2.950001 9.550002)
-			(end 2.82 9.59)
+			(end 2.82 9.589999)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -2628,7 +2628,7 @@
 		)
 		(fp_line
 			(start -7.169999 -6.969998)
-			(end -7.070001 -7.069999)
+			(end -7.070001 -7.069998)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -2647,7 +2647,7 @@
 			(uuid "6be3c799-94c8-4e4d-b124-2f66bfe55d74")
 		)
 		(fp_line
-			(start -7.070001 -7.069999)
+			(start -7.070001 -7.069998)
 			(end -6.97 -7.17)
 			(stroke
 				(width 0.05)
@@ -2997,7 +2997,7 @@
 			(uuid "8f324b17-5ab8-4af9-9d3b-8a3d64f22123")
 		)
 		(fp_line
-			(start 7.070001 7.069999)
+			(start 7.070001 7.069998)
 			(end 6.97 7.17)
 			(stroke
 				(width 0.05)
@@ -3018,7 +3018,7 @@
 		)
 		(fp_line
 			(start 7.169999 6.969998)
-			(end 7.070001 7.069999)
+			(end 7.070001 7.069998)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -3328,7 +3328,7 @@
 		)
 		(fp_line
 			(start -2.950001 -9.550002)
-			(end -2.82 -9.59)
+			(end -2.82 -9.589999)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -3347,7 +3347,7 @@
 			(uuid "25a5ade9-0b96-462a-9447-4a3d5488bfb9")
 		)
 		(fp_line
-			(start -2.82 -9.59)
+			(start -2.82 -9.589999)
 			(end -2.679999 -9.63)
 			(stroke
 				(width 0.05)
@@ -4497,7 +4497,7 @@
 			(uuid "009e75c5-26b9-4e81-9874-70fe7e89c55a")
 		)
 		(fp_line
-			(start 9.59 -2.82)
+			(start 9.589999 -2.82)
 			(end 9.63 -2.679999)
 			(stroke
 				(width 0.05)
@@ -4518,7 +4518,7 @@
 		)
 		(fp_line
 			(start 9.550002 -2.950001)
-			(end 9.59 -2.82)
+			(end 9.589999 -2.82)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -4828,7 +4828,7 @@
 		)
 		(fp_line
 			(start 6.969998 -7.169999)
-			(end 7.069999 -7.070001)
+			(end 7.069998 -7.070001)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -4857,7 +4857,7 @@
 			(uuid "2ac9828a-9165-4633-867a-9fc490a12e8b")
 		)
 		(fp_line
-			(start 7.069999 -7.070001)
+			(start 7.069998 -7.070001)
 			(end 7.17 -6.97)
 			(stroke
 				(width 0.05)
@@ -5078,7 +5078,7 @@
 			(uuid "b348802d-e3a6-41c1-902c-06d7849036bc")
 		)
 		(embedded_fonts no)
-		(model "/home/rbaruffa/Perso/OmniPTT/hardware/libraries/PTT_Project_library.3dshapes/BATT-TH_MY-2032-02.wrl"
+		(model "${KIPRJMOD}/../../libraries/PTT_Project_library.3dshapes/BATT-TH_MY-2032-02.wrl"
 			(offset
 				(xyz 0 0 0)
 			)

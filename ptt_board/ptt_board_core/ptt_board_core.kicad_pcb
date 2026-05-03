@@ -394,7 +394,7 @@
 			(uuid "8050d193-38d9-474e-9900-88cf4fc43366")
 		)
 		(embedded_fonts no)
-		(model "/home/rbaruffa/Perso/OmniPTT/hardware/libraries/PTT_Project_library.3dshapes/SW-SMD_4P-L4.2-W3.2-P2.15-LS4.6.wrl"
+		(model "${KIPRJMOD}/../../libraries/PTT_Project_library.3dshapes/SW-SMD_4P-L4.2-W3.2-P2.15-LS4.6.wrl"
 			(offset
 				(xyz 0 -0 -0)
 			)
@@ -2234,7 +2234,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "0.1 uF"
+		(property "Value" "100nF"
 			(at 0.2 6 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -2776,6 +2776,15 @@
 		(uuid "276098f7-cf65-4086-92a8-0e7d6ad227e6")
 	)
 	(via
+		(at 95.25 94.75)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "2c899ca1-fde2-4a12-a03b-df1c6680f829")
+	)
+	(via
 		(at 109.5 94.5)
 		(size 0.6)
 		(drill 0.3)
@@ -2783,6 +2792,15 @@
 		(free yes)
 		(net 2)
 		(uuid "36b13fd8-3b46-42fc-ba0a-47140c2632a4")
+	)
+	(via
+		(at 100 100)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "38351a54-d07b-4e94-a811-537c774f87b3")
 	)
 	(via
 		(at 104.2 106.8)
@@ -2830,6 +2848,15 @@
 		(uuid "ab934a9e-e07c-40f6-8eee-f719e7735575")
 	)
 	(via
+		(at 97 103.5)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "abe88c0f-6dc5-41b3-a6ee-65c52f61f032")
+	)
+	(via
 		(at 95.4 111)
 		(size 0.6)
 		(drill 0.3)
@@ -2855,6 +2882,15 @@
 		(free yes)
 		(net 2)
 		(uuid "c90f983f-f269-495c-b92c-358aa942424c")
+	)
+	(via
+		(at 102.75 103.5)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "d05e48a4-da1b-47e5-bfa0-173581fce87b")
 	)
 	(via
 		(at 111.2 104.9)
@@ -2891,6 +2927,15 @@
 		(free yes)
 		(net 2)
 		(uuid "f949c96b-f54e-4cfa-b22c-db2f1841d01c")
+	)
+	(via
+		(at 99.75 94.75)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "fa76d577-d609-4e60-a18d-ea61b26436b9")
 	)
 	(segment
 		(start 95.2 107.65)
