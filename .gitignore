@@ -3,7 +3,6 @@
 
 
 # Ignore everything inside the exports directory
-exports/*
-
-# Un-ignore the Python file(s)
-!exports/*.py
+radio_board/exports/gerber/*
+ptt_board/ptt_board_core/exports/gerber/*
+ptt_board/ptt_board_cell/exports/gerber/*
