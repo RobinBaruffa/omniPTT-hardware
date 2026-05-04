@@ -15,3 +15,4 @@ R7,1,4.7k,0,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C99782
 PTT_board,1,100nF,0,“0402”,C60474
 PTT_board,1,10uF,0,“0402”,C315248
 PTT_board_2032_holder,1,2032_holder,0,2032_holder,C964822
+"C6,C7",2,22uF,0,“0805”,C602037
