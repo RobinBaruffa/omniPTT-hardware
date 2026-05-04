@@ -187,7 +187,8 @@
         }
       ],
       "track_widths": [
-        0.0
+        0.0,
+        0.3
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -542,7 +543,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../exports/radio_board",
+      "plot": "exports/gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -553,7 +554,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "${KIPRJMOD}/../exports/radio_board/radio_board_BOM.csv",
+    "bom_export_filename": "exports/BOM/radio_board_BOM.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -721,10 +722,10 @@
       ],
       "filter_string": "",
       "group_symbols": true,
-      "include_excluded_from_bom": true,
+      "include_excluded_from_bom": false,
       "name": "",
-      "sort_asc": false,
-      "sort_field": "${DNP}"
+      "sort_asc": true,
+      "sort_field": "${EXCLUDE_FROM_BOM}"
     },
     "connection_grid_size": 50.0,
     "drawing": {
