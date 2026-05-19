@@ -6333,6 +6333,12 @@
 		(uuid "3da7533a-38a5-4446-86d0-669142800112")
 	)
 	(junction
+		(at 261.62 185.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3f9ddf7f-0a90-4f13-9ad5-512644c84eca")
+	)
+	(junction
 		(at 328.93 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6463,12 +6469,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ad517ce0-937e-41cb-8fbf-722ee1bcc3f1")
-	)
-	(junction
-		(at 261.62 185.42)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ae185b9d-a816-4411-a972-5d865edc84eb")
 	)
 	(junction
 		(at 76.2 170.18)
@@ -7008,16 +7008,6 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 185.42) (xy 262.89 185.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e2f52c4-cfbb-43ca-b4e1-76cd417bb916")
-	)
-	(wire
-		(pts
 			(xy 209.55 85.09) (xy 209.55 88.9)
 		)
 		(stroke
@@ -7185,6 +7175,16 @@
 			(type default)
 		)
 		(uuid "370cb249-42ea-4bb7-bb14-fcefa9b172aa")
+	)
+	(wire
+		(pts
+			(xy 261.62 185.42) (xy 261.62 204.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37e3a48d-5d22-4400-ab32-3332b667d332")
 	)
 	(wire
 		(pts
@@ -7718,16 +7718,6 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 204.47) (xy 261.62 185.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "64bf9446-1f85-45c6-9bc6-8b05228edcd0")
-	)
-	(wire
-		(pts
 			(xy 134.62 30.48) (xy 90.17 30.48)
 		)
 		(stroke
@@ -7875,6 +7865,16 @@
 			(type default)
 		)
 		(uuid "75cd4b17-cd87-4a9a-88f3-dfa3674dfdcc")
+	)
+	(wire
+		(pts
+			(xy 261.62 185.42) (xy 262.89 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76bc2084-6280-48f5-adbe-fd34aad1bc43")
 	)
 	(wire
 		(pts
@@ -10247,7 +10247,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "2.2k"
 			(at 313.182 147.066 90)
 			(effects
 				(font
@@ -21655,7 +21655,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470k"
+		(property "Value" "1M"
 			(at 293.624 212.344 0)
 			(effects
 				(font
@@ -28640,7 +28640,7 @@
 		(dnp no)
 		(uuid "e6cd5bb8-d153-4df9-b1af-ae82640e4948")
 		(property "Reference" "D2"
-			(at 273.05 197.358 0)
+			(at 277.368 197.104 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28648,7 +28648,7 @@
 			)
 		)
 		(property "Value" "RB521S-30_C727120"
-			(at 273.05 199.898 0)
+			(at 277.368 199.644 0)
 			(effects
 				(font
 					(size 1.27 1.27)
